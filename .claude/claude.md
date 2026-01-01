@@ -1,3 +1,11 @@
+## Commit Conventions
+
+All commits should use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
+
+All commits must follow the format: `type(scope): description`
+
+Common types: feat, fix, docs, style, refactor, test, chore
+
 ## Code Documentation Guidelines
 
 Follow these principles when commenting code:
