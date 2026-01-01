@@ -1,0 +1,9 @@
+# Atuin configuration - local-only mode
+# Disable sync to keep history local only
+sync_address = ""
+sync_frequency = "0"
+auto_sync = false
+
+# Optional: configure other settings
+inline_height = 20
+show_preview = true
